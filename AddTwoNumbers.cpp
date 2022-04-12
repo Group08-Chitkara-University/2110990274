@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Edited
 int main() {
 
   int first_number, second_number, sum;
